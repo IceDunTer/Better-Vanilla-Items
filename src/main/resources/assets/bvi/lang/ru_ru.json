@@ -1,0 +1,19 @@
+{
+  "container.bvi.fletcher_table": "Стол лучника",
+  "item.bvi.enchanted_glistering_melon": "Сверкающий ломтик арбуза",
+
+  "item.minecraft.potion.effect.poison_potato": "Зелье отравления",
+  "item.minecraft.splash_potion.effect.poison_potato": "Взрывное зелье отравления",
+  "item.minecraft.lingering_potion.effect.poison_potato": "Туманное зелье отравления",
+  "item.minecraft.tipped_arrow.effect.poison_potato": "Стрела отравления",
+
+  "item.minecraft.potion.effect.poison_potato_long": "Зелье отравления",
+  "item.minecraft.splash_potion.effect.poison_potato_long": "Взрывное зелье отравления",
+  "item.minecraft.lingering_potion.effect.poison_potato_long": "Туманное зелье отравления",
+  "item.minecraft.tipped_arrow.effect.poison_potato_long": "Стрела отравления",
+
+  "item.minecraft.potion.effect.poison_potato_strong": "Зелье отравления",
+  "item.minecraft.splash_potion.effect.poison_potato_strong": "Взрывное зелье отравления",
+  "item.minecraft.lingering_potion.effect.poison_potato_strong": "Туманное зелье отравления",
+  "item.minecraft.tipped_arrow.effect.poison_potato_strong": "Стрела отравления"
+}

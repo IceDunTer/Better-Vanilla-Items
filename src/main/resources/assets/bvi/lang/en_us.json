@@ -1,0 +1,19 @@
+{
+  "container.bvi.fletcher_table": "Fletcher Table",
+  "item.bvi.enchanted_glistering_melon": "Glistering Melon Slice",
+
+  "item.minecraft.potion.effect.poison_potato": "Potion of Poison",
+  "item.minecraft.splash_potion.effect.poison_potato": "Splash Potion of Poison",
+  "item.minecraft.lingering_potion.effect.poison_potato": "Lingering Potion of Poison",
+  "item.minecraft.tipped_arrow.effect.poison_potato": "Arrow of Poison",
+
+  "item.minecraft.potion.effect.poison_potato_long": "Potion of Poison",
+  "item.minecraft.splash_potion.effect.poison_potato_long": "Splash Potion of Poison",
+  "item.minecraft.lingering_potion.effect.poison_potato_long": "Lingering Potion of Poison",
+  "item.minecraft.tipped_arrow.effect.poison_potato_long": "Arrow of Poison",
+
+  "item.minecraft.potion.effect.poison_potato_strong": "Potion of Poison",
+  "item.minecraft.splash_potion.effect.poison_potato_strong": "Splash Potion of Poison",
+  "item.minecraft.lingering_potion.effect.poison_potato_strong": "Lingering Potion of Poison",
+  "item.minecraft.tipped_arrow.effect.poison_potato_strong": "Arrow of Poison"
+}

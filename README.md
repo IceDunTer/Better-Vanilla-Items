@@ -1,5 +1,5 @@
 # Better Vanilla Items
-## eng
+## Eng
 Better Vanilla Items is the Minecraft mod, which updates vanilla mechanics for fletching table and brewing for Vanilla and Vanilla+ modpacks!
 
 ### Useless Items are useful now!
@@ -13,7 +13,7 @@ Mangrove Roots can be used to create sticks, and Echo Shards and Bottles can be 
 
 
 
-## rus
+## Rus
 Better Vanilla Items - мод для Minecraft, который обновляет ванильные механики стола лучника и зельеварения для сборок под Ваниллу и Ваниллу+!
 
 ### Бесполезные предметы теперь полезные!

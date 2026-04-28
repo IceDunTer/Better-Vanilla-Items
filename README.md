@@ -3,8 +3,8 @@
 Better Vanilla Items is the Minecraft mod, which updates vanilla mechanics for fletching table and brewing for Vanilla and Vanilla+ modpacks!
 
 ### Useless Items are useful now!
-The Fletcher Table, the Poisonous Potato, and the Glistering Melon Slice now have a second life!
-- The Fletcher Table is now functional. Use it to craft arrows (8 instead of 4 from the workbench). Also, use simple potions when crafting arrows to apply an effect to them!
+The Fletching Table, the Poisonous Potato, and the Glistering Melon Slice now have a second life!
+- The Fletching Table is now functional. Use it to craft arrows (8 instead of 4 from the workbench). Also, use simple potions when crafting arrows to apply an effect to them!
 - Poisonous Potatoes can be used to create a poison potion (albeit for a short time).
 - The Glistering Melon Slice can be eaten! It will provide regeneration for 10 seconds after eating.
 
